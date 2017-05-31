@@ -1,0 +1,21 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Wed Mar  1 05:22:49 2017
+     Path: "C:\Users\susha\Desktop\Studies\Semester_2\Notes\OOD\Project1_Sushanth"
+     Args: *.h, Project1_Sushanth.sln, /a, /r, /f
+                                                                               
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             DatabaseDAO.h    function                            rlocate     260     105      21
+             DatabaseDAO.h    function                             locate     424     144      28
+                 NoSqlDb.h    function                            fromXml     190      56       5
+                 NoSqlDb.h    function                              toXml     249      84       5
+
+
+
+    searched    34 dirs
+   processed    13 files

@@ -1,0 +1,2 @@
+cd Debug
+DatabaseDAO.exe
