@@ -6,7 +6,7 @@
 //  Language:      Visual C++ 2008, SP1                            //
 //  Platform:      Dell Inspiron, Windows 8.1			           //
 //  Application:   NoSql Database - CIS 687 Project 1              //
-//  Author:        Abhijit Srikanth SUID:864888072			       //
+//  Author:        Sushanth Suresh SUID:864888072			       //
 /////////////////////////////////////////////////////////////////////
 /*
 Module Operations:
